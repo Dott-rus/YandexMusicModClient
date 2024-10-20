@@ -32,7 +32,7 @@
 
 0. Загрузите последнюю версию клиента Яндекс музыки с официального сайта https://music.yandex.com/download/
 1. Откройте командную строку (Win + R -> cmd -> Enter)
-2. Выполните эту команду
+2. Выполните эти команды по очереди
    ```bat
    curl -L https://github.com/TheKing-OfTime/YandexMusicModClient/releases/latest/download/app.asar > %localappdata%/Programs/YandexMusic/resources/app.asar
    rmdir "%appdata%/YandexMusic/Local Storage/" /s
