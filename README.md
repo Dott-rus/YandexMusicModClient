@@ -32,7 +32,7 @@
 
 0. Download latest Yandex music client from offical site https://music.yandex.com/download/
 1. Open command line (Win + R -> cmd -> Enter)
-2. Execute this command
+2. Execute this commands one by one
    ```bat
    curl -L https://github.com/TheKing-OfTime/YandexMusicModClient/releases/latest/download/app.asar > %localappdata%/Programs/YandexMusic/resources/app.asar
    rmdir "%appdata%/YandexMusic/Local Storage/" /s
