@@ -1,0 +1,25 @@
+{
+  "type": "solid",
+  "name": "devtools",
+  "displayName": "DevToolsXDevPanel",
+  "affinity": "native",
+  "required": false,
+  "author": {
+    "name": "",
+    "nickname": "",
+    "github": ""
+  },
+  "dependencies": [
+
+  ],
+  "scopes": [
+
+  ],
+  "settingsModel": [
+    {
+      "dataType": "boolean",
+      "name": "enabled",
+      "defaultValue": false
+    }
+  ]
+}
